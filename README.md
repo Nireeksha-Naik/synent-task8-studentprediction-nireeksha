@@ -73,10 +73,11 @@ Dataset File:
 ### Reading vs Writing Scores
 ![Figure3](Screenshots/Figure3.png)
 
-### Actual vs Predicted Scores
+### Correlation Heatmap
 ![Figure4](Screenshots/Figure4.png)
 
----
+### Actual vs Predicted Scores
+![Figure5](Screenshots/Figure5.png)
 
 # 🚀 How to Run the Project
 
@@ -93,10 +94,6 @@ python student_prediction.py
 ```
 
 ---
-
-# 📁 Project Structure
-
-```text
 STUDENT_PREDICTION/
 │
 ├── README.md
@@ -108,8 +105,8 @@ STUDENT_PREDICTION/
     ├── Figure1.png
     ├── Figure2.png
     ├── Figure3.png
-    └── Figure4.png
-```
+    ├── Figure4.png
+    └── Figure5.png
 
 ---
 
