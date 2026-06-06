@@ -6,9 +6,7 @@ Educational institutions generate large amounts of student performance data, but
 
 The project helps in understanding student performance patterns and demonstrates how Machine Learning can be used for predictive analysis in education.
 
----
-https://drive.google.com/file/d/1k3Yu-KvaCxe7C8r7fYbfLBZllY4cNXRx/view?usp=drive_link
----
+Demo Link: https://drive.google.com/file/d/1k3Yu-KvaCxe7C8r7fYbfLBZllY4cNXRx/view?usp=drive_link
 
 # 📌 Project Overview
 
